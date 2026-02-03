@@ -5,7 +5,7 @@ A simple HTML project showcasing a variety of button styles built with **Tailwin
 This project demonstrates hover effects, gradients, icons, badges, and different button states using utility-first CSS.
 
 ---
-!
+
 ## 📸 Preview
 
 The page displays a centered container with multiple styled buttons including:
